@@ -1,0 +1,17 @@
+C:\Users\migue\source\repos\spooferzao\spooferzao\bin\Debug\spooferzao.exe.config
+C:\Users\migue\source\repos\spooferzao\spooferzao\bin\Debug\spooferzao.exe
+C:\Users\migue\source\repos\spooferzao\spooferzao\bin\Debug\spooferzao.pdb
+C:\Users\migue\source\repos\spooferzao\spooferzao\bin\Debug\Guna.UI.dll
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.login.resources
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.Properties.Resources.resources
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.csproj.Up2Date
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.exe
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.pdb
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.Registro.resources
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.Main.resources
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.fivem220.resources
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.csgo220.resources
+C:\Users\migue\source\repos\spooferzao\spooferzao\obj\Debug\spooferzao.valorant.resources
